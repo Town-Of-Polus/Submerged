@@ -2,20 +2,6 @@ _This mod is not affiliated with Among Us or Innersloth LLC, and the content con
 
 ---
 
-<i>This is a human-readable summary of (and not a substitute for) the license.</i>
-
-<p>You may use, modify, share, distribute, or include Submerged in your own modpack or mod downloads, under the following conditions:</p>
-
-  - You may not modify the Submerged assembly (DLL) in any capacity.
-  
-      - You may, however, use Harmony to patch the Submerged assembly, as long as your modifications are made for ensuring compatibility with other mods.
-
-  - You may modify the Submerged source code (by forking the repository and submitting a pull request), as long as your modifications are made for contributing to this repository. You may not duplicate this repository and modify the source code for your own use. 
-
-  - You may not sell users the access to play on Submerged with your mod/modpack. Any features your mod/modpack offers on the base-game maps cannot be paywalled for Submerged.
-
----
-
 <strong>Video Policy</strong>
 
 We allow our users to create and publish Submerged content or videos to any websites, including YouTube, Twitch, and similar video sharing services and also monetize them.
@@ -24,23 +10,26 @@ We allow our users to create and publish Submerged content or videos to any webs
 ---
 ---
 
-<h1>Submerged Limited License ("License")</h1>
+<i>This is a human-readable summary of (and not a substitute for) the license.</i>
 
-<h3>Copyright © 2020-2024 ALEXEJHERO, 5UP AND ASSOCIATES</h3>
+<p>You may share, distribute, or include Submerged in your own modpack or mod downloads, under the following conditions:</p>
+
+  - You may not modify the Submerged assembly in any capacity.
+  
+      - You may, however, use Harmony to patch the Submerged assembly, as long as your modifications are for ensuring compatibility with other mods.
+
+  - You may not sell users the access to play on Submerged with your mod/modpack. Any features your mod/modpack offers on the base-game maps cannot be paywalled for Submerged.
+
+---
+
+<h3>Copyright © 2020-2022 5UP AND ASSOCIATES</h3>
 <p>By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this license ("License"). To the extent this License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.</p>
 <p id="s1"><strong>Section 1 – Definitions.</strong></p>
 <ol type="a">
 <li id="s1g"><strong>Licensor</strong> means the individual(s) or entity(ies) granting rights under this Public License.</li>
 <li id="s1k"><strong>You</strong> means the individual or entity exercising the Licensed Rights under this Public License. <strong>Your</strong> has a corresponding meaning.</li>
-<li id="s1e"><strong>Licensed Material</strong> means the technological or artistic work, or other material to which the Licensor applied this License. Screenshots and recordings of the Licensed Material are not considered part of the Licensed Material.
-<div class="para">
-<ol type="1">
-<li id="s1e1"><strong>Licensed Material in Binary Form</strong> means the Licensed Material in a form that is not human-readable, such as compiled object code, generated documentation, and conversions to other media types.</li>
-<li id="s1e2"><strong>Licensed Material in Source Form</strong> means the Licensed Material in a form that is human-readable, such as source code, documentation, audio, and visual material.</li>
-</ol>
-</div>
-</li>
-<li id="s1f"><strong>Licensed Rights</strong> means the rights granted to You subject to the terms and conditions of this License, including but not limited to the rights to use, modify, distribute, and Share the Licensed Material, subject to the terms and conditions outlined herein, and as authorized by the Licensor.</li>
+<li id="s1e"><strong>Licensed Material</strong> means the technological or artistic work, or other material to which the Licensor applied this License. Screenshots and recordings of the Licensed Material are not considered part of the Licensed Material.</li>
+<li id="s1f"><strong>Licensed Rights</strong> means the rights granted to You subject to the terms and conditions of this License and that the Licensor has authority to license.</li>
 <li id="s1d"><strong>Exceptions</strong> means any exemptions to the License negociated between You and the Licensor.</li>
 <li id="s1d2"><strong>Limitations</strong> means any limitations to the License imposed on You by the Licensor.</li>
 <li id="s1i"><strong>Share</strong> means to provide material to the public by any means or process, such as redistribution, copying of digital files, uploading, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.</li>
@@ -81,24 +70,15 @@ We allow our users to create and publish Submerged content or videos to any webs
 <li id="s3a2">You may satisfy the conditions in Section <a href="#s3a1">3(a)(1)</a> in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.</li>
 </ol>
 </li>
-<li id="s3b"><p><strong>No Modification in Binary Form</strong>.</p>
+<li id="s3b"><p><strong>No Modification</strong>.</p>
 <ol>
-<li id="s3b1"><p>If You Share the Licensed Material in Binary Form, You must:</p>
+<li id="s3b1"><p>If You Share the Licensed Material, You must:</p>
 <ol type="A">
-<li id="s3b1A">not modify the files contained within the Licensed Material in Binary Form in any capacity, such as digital modifications of the Licensed Material in Binary Form.</li>
-<li id="s3b1B">not modify the operation of the files contained within the Licensed Material in Binary Form by any means, including using techniques such as runtime dynamic link library (DLL) injection or patching, except in cases where such modifications are explicitly undertaken to enhance compatibility between the Licensed Material in Binary Form and other software.</li>
-<li id="s3b1C">guarantee that any accompanying software distributed alongside the Licensed Material in Binary Form, if applicable, does not incorporate functionalities that are ordinarily accessible but require payment for utilization alongside the Licensed Material.</li>
+<li id="s3b1A">not modify the files contained within the Licensed Material in any capacity, such as digital modifications of the Licensed Material.</li>
+<li id="s3b1B">not modify the operation of the files contained within the Licensed Material by any means, such as runtime DLL injection or patching, unless the modifications were made with the intention of facilitating compatibility between the Licensed Material and other software.</li>
+<li id="s3b1C">ensure that other software shared alongside the Licensed Material, if present, does not include any features that are generally available, but require payment to be used in conjunction with the Licensed Material.</li>
 </ol>
 </ol>
-
-<li id="s3c"><p><strong>Limited Modification in Source Form</strong>.</p>
-<ol>
-<li id="s3c1"><p>If You Share the Licensed Material in Source Form, You must:</p>
-<ol type="A">
-<li id="s3c1A">not modify the files contained within the Licensed Material in Source Form in any capacity, except in cases where the modifications are made for the purpose of contributing improvements or enhancements to the parent repository or project, as outlined in the contribution guidelines or policies provided by the Licensor.</li>
-</ol>
-</ol>
-
 </ol>
 
 <p id="s4"><strong>Section 4 – Disclaimer of Warranties and Limitation of Liability.</strong></p>
